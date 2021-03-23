@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+--bg: #00000C;
+--bg2: #21004E;
+--dark: #5103B8;
+--purple: #7514F7;
+--light: #8A31FF;
+}
