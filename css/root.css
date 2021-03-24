@@ -10,4 +10,13 @@
 --dark: #5103B8;
 --purple: #7514F7;
 --light: #8A31FF;
+--shadow: rgba(0, 0, 0, 0.6);
+
+--telegram: #0088cc;
+--whatsapp: #25d366;
+}
+
+::selection {
+    background: var(--bg);
+    color: var(--light);
 }
