@@ -1,0 +1,25 @@
+/* --bg: #00000C;
+--bg2: #21004E;
+--dark: #5103B8;
+--purple: #7514F7;
+--light: #8A31FF; */
+
+button {
+    background: var(--light);
+    border: 0;
+    padding: .5rem 2rem;
+    border-radius: 1.5rem;
+    margin: 1rem;
+    transition: transform .1s ease;
+    width: fit-content;
+}
+
+button > a {
+    color: white;
+    text-decoration: none;
+}
+
+button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 1rem 1rem var(--shadow);
+}
