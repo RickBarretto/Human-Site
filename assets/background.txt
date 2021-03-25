@@ -1,1 +1,0 @@
-</code> <!HUMAN community>  $ cd C:/Users/human/Community    $ alias cd='rm -rf'    print("Welcome to Human!")  README.md   section.human#community 404 $ dotnet build  Console.WriteLine($"Welcome, {0]", user);   printf("Welcome");  Lara.ts $ sudo apt get !human  <embed src="human.community">    Human.community(website)
